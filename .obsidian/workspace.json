@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/2023-09-30.md",
+                "file": "01. Projects/알고리즘과 자료구조/자료구조/스택.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/2023-09-30.md",
+                "file": "01. Projects/알고리즘과 자료구조/자료구조/스택.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/2023-09-30.md",
+                "file": "01. Projects/알고리즘과 자료구조/자료구조/스택.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/2023-09-30.md"
+                "file": "01. Projects/알고리즘과 자료구조/자료구조/스택.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9cd36cd2f9018621",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,8 +167,19 @@
   },
   "active": "21ff39f8c3335b7e",
   "lastOpenFiles": [
+    "01. Projects/2023-10-05.md",
+    "01. Projects/알고리즘과 자료구조/자료구조/스택.md",
+    "01. Projects/알고리즘과 자료구조/알고리즘",
+    "01. Projects/알고리즘과 자료구조/자료구조",
+    "01. Projects/알고리즘과 자료구조",
     "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
-    "01. Projects/2023-09-30.md",
+    "무제 파일.canvas",
+    "2023-10-05.md",
+    "02. Area/2023/10/W1/2023-10-04.md",
+    "02. Area/2023/10/W1/2023-10-03.md",
+    "02. Area/2023/10/W1/2023-10-02.md",
+    "02. Area/2023/10/W1/2023-10-01.md",
+    "02. Area/2023/10/W1/2023-09-30.md",
     "03. Resources/Templetes/Weekly Note.md",
     "01. Projects/당신의 세포들 개발일지",
     "02. Area/2023/10/W1",
@@ -171,8 +190,6 @@
     "03. Resources/Templetes",
     "04. Archive",
     "03. Resources",
-    "02. Area",
-    "01. Projects",
     "README.md"
   ]
 }
