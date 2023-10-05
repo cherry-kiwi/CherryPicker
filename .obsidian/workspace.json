@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
+                "file": "01. Projects/2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
+                "file": "01. Projects/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
+                "file": "01. Projects/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md"
+                "file": "01. Projects/2023-10-06.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,12 +167,12 @@
   },
   "active": "21ff39f8c3335b7e",
   "lastOpenFiles": [
-    "01. Projects/2023-10-07.md",
-    "01. Projects/2023-10-06.md",
     "01. Projects/2023-10-05.md",
+    "01. Projects/2023-10-06.md",
+    "01. Projects/2023-10-07.md",
+    "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "02. Area/2023/10/W1/2023-10-04.md",
     "02. Area/2023/10/W1/2023-09-30.md",
-    "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "03. Resources/Templetes/Weekly Note.md",
     "Attached Files/Pasted image 20231005223615.png",
     "Attached Files",
