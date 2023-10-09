@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67d53221defdfb9f",
+            "id": "a4516b34dd76416b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5e4ecc9d149027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Resources/Templetes/Weekly Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 242.5124969482422
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -163,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +165,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "a4516b34dd76416b",
   "lastOpenFiles": [
-    "01. Projects/2023-10-07.md",
-    "02. Area/2023/10/W1/2023-10-06.md",
-    "03. Resources/Templetes/Weekly Note.md",
-    "01. Projects/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
+    "01. Projects/2023-10-09.md",
+    "02. Area/2023/10/W2/2023-10-08.md",
     "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
+    "01. Projects/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
+    "03. Resources/Unity/월드 포지션 VS 로컬 포지션.md",
+    "03. Resources/Unity",
+    "03. Resources/Templetes/Weekly Note.md",
+    "02. Area/2023/10/W1/2023-10-07.md",
+    "02. Area/2023/10/W2",
+    "02. Area/2023/10/W1/2023-10-06.md",
+    "01. Projects/2023-10-06.md",
     "02. Area/2023/10/W1/2023-10-05.md",
     "02. Area/2023/10/W1/2023-10-04.md",
     "02. Area/2023/10/W1/2023-09-30.md",
@@ -206,8 +198,6 @@
     "02. Area/2023",
     "03. Resources/Templetes/Daily Note.md",
     "HelloWorld.md",
-    "03. Resources/Templetes",
-    "04. Archive",
     "README.md"
   ]
 }
