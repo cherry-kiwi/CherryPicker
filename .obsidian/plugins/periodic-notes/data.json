@@ -3,13 +3,13 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY-MM-DD (ddd)",
     "template": "03. Resources/Templetes/Daily Note.md",
     "folder": "01. Projects",
     "enabled": true
   },
   "weekly": {
-    "format": "gggg-MM-[W]",
+    "format": "YYYY-ww[주차]",
     "template": "03. Resources/Templetes/Weekly Note.md",
     "folder": "01. Projects",
     "enabled": true

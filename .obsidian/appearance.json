@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "callout",
+    "MCL Multi Column",
+    "MCL Gallery Cards",
+    "MCL Wide Views"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin"
 }
