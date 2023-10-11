@@ -15,9 +15,10 @@
     "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY년-",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
