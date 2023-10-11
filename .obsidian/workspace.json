@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/2023-10-11 (수).md",
+                "file": "03. Resources/Templetes/Daily Note.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "abcf2bdc01151ec9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03. Resources/Templetes/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03. Resources/Templetes/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03. Resources/Templetes/Daily Note.md"
+              }
             }
           },
           {
@@ -184,10 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abcf2bdc01151ec9",
+  "active": "b5bb68c5b32eca82",
   "lastOpenFiles": [
-    "01. Projects/2023-10-24 (화).md",
     "01. Projects/2023-10-11 (수).md",
+    "01. Projects/2023-10-24 (화).md",
     "무제 파일 1.md",
     "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
     "03. Resources/plugins/fantasy-calendar/data.json",
