@@ -20,18 +20,15 @@
             }
           },
           {
-            "id": "7384b3255cae5a6b",
+            "id": "abcf2bdc01151ec9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Projects/2023-10-24 (화).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +143,10 @@
             }
           },
           {
-            "id": "629daaad90d4dcd2",
+            "id": "798c81e40dff4d69",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {}
             }
           }
@@ -157,14 +154,14 @@
         "currentTab": 5
       },
       {
-        "id": "899b76eb2fa23e79",
+        "id": "33506663f1b2e567",
         "type": "tabs",
         "children": [
           {
-            "id": "798c81e40dff4d69",
+            "id": "629daaad90d4dcd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -187,10 +184,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "798c81e40dff4d69",
+  "active": "abcf2bdc01151ec9",
   "lastOpenFiles": [
-    "01. Projects/2023-10-11 (수).md",
     "01. Projects/2023-10-24 (화).md",
+    "01. Projects/2023-10-11 (수).md",
     "무제 파일 1.md",
     "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
     "03. Resources/plugins/fantasy-calendar/data.json",
