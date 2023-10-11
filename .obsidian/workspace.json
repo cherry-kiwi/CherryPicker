@@ -20,35 +20,19 @@
             }
           },
           {
-            "id": "5b85b4e87ecae62b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "36a6a21aaee1162c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7384b3255cae5a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "01. Projects/2023-10-24 (화).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "01. Projects/2023-10-24 (화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "01. Projects/2023-10-24 (화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "01. Projects/2023-10-24 (화).md"
               }
             }
           },
@@ -173,17 +157,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "66542f3c636822e4",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "899b76eb2fa23e79",
@@ -213,11 +189,10 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7384b3255cae5a6b",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
     "무제 파일 1.md",
     "01. Projects/2023-10-11 (수).md",
@@ -226,7 +201,7 @@
     "03. Resources/plugins/fantasy-calendar",
     "03. Resources/plugins",
     "01. Projects/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
-    "01. Projects/2023-10-24.md",
+    "01. Projects/2023-10-24 (화).md",
     "02. Area/Library.md",
     "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "03. Resources/Templetes/Weekly Note.md",
