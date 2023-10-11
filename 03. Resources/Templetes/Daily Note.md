@@ -3,3 +3,5 @@
 ### Log
 - 10:10 
 ### Diary
+
+### To Lord
