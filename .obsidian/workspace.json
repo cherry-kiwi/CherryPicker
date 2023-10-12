@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +217,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "3ff4b50ca19b9f31",
   "lastOpenFiles": [
     "01. Projects/인공지능/퍼셉트론.md",
     "03. Resources/Templetes/Homepage.md",
