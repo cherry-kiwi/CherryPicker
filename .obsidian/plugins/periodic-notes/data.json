@@ -15,9 +15,9 @@
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY년-",
+    "format": "YYYY-MM[월]",
     "template": "",
-    "folder": "",
+    "folder": "01. Projects",
     "enabled": true
   },
   "quarterly": {

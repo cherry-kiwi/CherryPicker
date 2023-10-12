@@ -4,9 +4,19 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "",
+      "folder": "02. Area/Daily/2023",
       "tag": "",
-      "pattern": ""
+      "pattern": "-10-"
+    },
+    {
+      "folder": "02. Area/Weekly/2023",
+      "tag": "",
+      "pattern": "주차"
+    },
+    {
+      "folder": "02. Area/Montly/2023",
+      "tag": "",
+      "pattern": "월"
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

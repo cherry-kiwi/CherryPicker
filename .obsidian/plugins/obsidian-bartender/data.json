@@ -1,0 +1,17 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "02. Area": [
+      "02. Area/2023",
+      "02. Area/Daily",
+      "02. Area/Weekly",
+      "02. Area/Montly",
+      "02. Area/Yearly"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

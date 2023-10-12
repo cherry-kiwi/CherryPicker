@@ -41,6 +41,7 @@ sit
 sed
 sodales
 sketches
+sng
 amet
 adipiscing
 aliqua
@@ -94,6 +95,7 @@ System
 SUN
 SAT
 Scriptable
+Softr
 Grid
 Goals
 GetSelectedMapPosition
@@ -116,6 +118,7 @@ Personal
 PlacementSystem
 Physics
 Periodic
+Project
 MON
 MEMO
 Monthly
@@ -133,3 +136,5 @@ ray
 raycast
 raycastHit
 HDRP
+Area
+Archive
