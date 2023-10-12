@@ -4,3 +4,6 @@
 	- Monthly Note: ctrl + alt + M
 
 Weekly Note
+
+
+Monthly Note

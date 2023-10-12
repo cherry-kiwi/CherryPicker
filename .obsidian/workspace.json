@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "734688176048fc5b",
+            "id": "3ff4b50ca19b9f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/2023-41주차.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5124969482422
+    "width": 242.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/2023-10-12 (목).md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/2023-10-12 (목).md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/2023-10-12 (목).md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,19 +218,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "66e257f8a06ae5f7",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
-    "01. Projects/2023-10-13 (금).md",
-    "01. Projects/2023-10-12 (목).md",
-    "01. Projects/체감형 VR HDRP.md",
     "01. Projects/인공지능/퍼셉트론.md",
-    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+    "03. Resources/Templetes/Homepage.md",
     "01. Projects/2023-41주차.md",
+    "01. Projects/2023-10-12 (목).md",
+    "01. Projects/2023-10-13 (금).md",
+    "02. Area/2023/10/W2/2023-10-11 (수).md",
+    "01. Projects/체감형 VR HDRP.md",
+    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
     "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
     "03. Resources/Templetes/Weekly Note.md",
-    "03. Resources/Templetes/Homepage.md",
     "01. Projects/2023-10-24 (화).md",
-    "02. Area/2023/10/W2/2023-10-11 (수).md",
     "01. Projects/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "03. Resources/Templetes/Daily Note.md",
     "무제 파일 1.md",

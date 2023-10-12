@@ -9,6 +9,7 @@ Define
 Develop
 Data
 Database
+Daily
 List
 Lorem
 Learning
@@ -44,12 +45,14 @@ amet
 adipiscing
 aliqua
 and
+alt
 consectetur
 cursus
 cssClass
 calander
 cellIndicator
 cf
+ctrl
 elit
 eiusmod
 et
@@ -103,6 +106,7 @@ OnExit
 Work
 WED
 WorldToCell
+Weekly
 grid
 gridPosition
 with
@@ -111,6 +115,7 @@ Jane
 Personal
 PlacementSystem
 Physics
+Periodic
 MON
 MEMO
 Monthly
@@ -123,6 +128,7 @@ float
 Note
 hit
 hitInfo
+hdrp
 ray
 raycast
 raycastHit
