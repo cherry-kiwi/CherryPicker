@@ -16,7 +16,7 @@
   },
   "monthly": {
     "format": "YYYY-MM[월]",
-    "template": "",
+    "template": "03. Resources/Templetes/Monthly Note.md",
     "folder": "01. Projects",
     "enabled": true
   },
