@@ -54,6 +54,7 @@ calander
 cellIndicator
 cf
 ctrl
+color
 elit
 eiusmod
 et
@@ -122,12 +123,14 @@ Project
 MON
 MEMO
 Monthly
+Mover
 FRI
 page
 placementLayermask
 fantasy
 false
 float
+font
 Note
 hit
 hitInfo
@@ -138,3 +141,4 @@ raycastHit
 HDRP
 Area
 Archive
+Auto
