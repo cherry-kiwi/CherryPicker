@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Templetes/Daily Note.md",
+                "file": "01. Projects/2023-10-12 (목).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734688176048fc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Templetes/Daily Note.md",
+                "file": "01. Projects/2023-10-12 (목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Templetes/Daily Note.md",
+                "file": "01. Projects/2023-10-12 (목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Templetes/Daily Note.md"
+                "file": "01. Projects/2023-10-12 (목).md"
               }
             }
           },
@@ -181,20 +193,21 @@
   },
   "active": "b5bb68c5b32eca82",
   "lastOpenFiles": [
-    "01. Projects/2023-10-11 (수).md",
+    "02. Area/2023/10/W2/2023-10-11 (수).md",
+    "01. Projects/2023-10-12 (목).md",
+    "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
+    "01. Projects/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
+    "03. Resources/Templetes/Daily Note.md",
     "01. Projects/2023-10-24 (화).md",
     "무제 파일 1.md",
-    "01. Projects/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
     "03. Resources/plugins/fantasy-calendar/data.json",
     "03. Resources/plugins/fantasy-calendar",
     "03. Resources/plugins",
-    "01. Projects/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "02. Area/Library.md",
     "01. Projects/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "03. Resources/Templetes/Weekly Note.md",
     "02. Area/2023/10/W2/2023-10-10.md",
     "무제 파일.md",
-    "03. Resources/Templetes/Daily Note.md",
     "01. Projects/2023-10-11.md",
     "03. Resources/List/Movie.md",
     "03. Resources/Templetes/Multi Callout.md",
@@ -221,7 +234,6 @@
     "03. Resources/Unity",
     "02. Area/2023/10/W1/2023-10-07.md",
     "02. Area/2023/10/W2",
-    "02. Area/2023/10/W1/2023-10-06.md",
     "Attached Files/Pasted image 20231005223615.png",
     "Attached Files",
     "01. Projects/알고리즘과 자료구조/알고리즘",

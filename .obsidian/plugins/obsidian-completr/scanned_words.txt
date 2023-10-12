@@ -12,6 +12,8 @@ Database
 List
 Lorem
 Learning
+Log
+Lord
 KT
 Use
 User
@@ -124,3 +126,4 @@ hitInfo
 ray
 raycast
 raycastHit
+HDRP
