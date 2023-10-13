@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7b633e0d5aacee29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Area/Montly/2023/2023-10월.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d26902a10173ff8c",
             "type": "leaf",
             "state": {
@@ -30,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01ebeea59b45d90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
+                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
+                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md"
+                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md"
               }
             }
           },
@@ -193,12 +217,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d26902a10173ff8c",
+  "active": "01ebeea59b45d90b",
   "lastOpenFiles": [
-    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "02. Area/Daily/2023/10/2023-10-14 (토).md",
-    "03. Resources/Templetes/Homepage.md",
     "02. Area/Montly/2023/2023-10월.md",
+    "03. Resources/Templetes/Homepage.md",
+    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "01. Projects/2023-10-24 (화).md",
     "Attached Files/Pasted image 20231013152336.png",
