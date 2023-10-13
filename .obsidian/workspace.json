@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6990374b19511347",
+            "id": "7e458f25a783091d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "02. Area/Weekly/2023/2023-41주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0f1fc263065ed7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Area/Daily/2023/10/2023-10-13 (금).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "02. Area/Weekly/2023/2023-41주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "02. Area/Weekly/2023/2023-41주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md"
+                "file": "02. Area/Weekly/2023/2023-41주차.md"
               }
             }
           },
@@ -180,15 +192,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6990374b19511347",
+  "active": "7e458f25a783091d",
   "lastOpenFiles": [
+    "03. Resources/Templetes/Homepage.md",
+    "02. Area/Weekly/2023/2023-41주차.md",
+    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "01. Projects/체감형 VR HDRP.md",
     "01. Projects/캡스톤 개발일지/01..md",
     "04. Archive/노트 예시.md",
-    "03. Resources/Templetes/Homepage.md",
     "01. Projects/캡스톤 개발일지",
-    "02. Area/Daily/2023/10/2023-10-13 (금).md",
-    "02. Area/Weekly/2023/2023-41주차.md",
     "02. Area/Montly/2023/2023-10월.md",
     "03. Resources/Templetes/Monthly Note.md",
     "03. Resources/Templetes/Weekly Note.md",
