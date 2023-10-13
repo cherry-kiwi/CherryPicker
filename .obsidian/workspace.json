@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색.md",
+                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11942ad61c953d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색.md",
+                "file": "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색.md",
+                "file": "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색.md"
+                "file": "01. Projects/인공지능/02. 탐색/N-queen 문제.md"
               }
             }
           },
@@ -205,10 +217,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8c7c939495ee202",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
+    "01. Projects/인공지능/02. 탐색/02. 탐색.md",
+    "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
+    "01. Projects/인공지능/02. 탐색/지도 상에서의 경로 발견 문제.md",
+    "Attached Files/Pasted image 20231013135322.png",
+    "01. Projects/인공지능/02. 탐색",
     "02. Area/Daily/2023/10/2023-10-13 (금).md",
-    "01. Projects/인공지능/02. 탐색.md",
     "03. Resources/Templetes/Homepage.md",
     "01. Projects/인공지능/퍼셉트론.md",
     "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
@@ -237,7 +253,6 @@
     "02. Area/Yearly",
     "02. Area/Montly",
     "02. Area/Weekly",
-    "02. Area/Daily",
     "2023-10-13.md",
     "02. Area/Daily/2023/10/2023-10-12 (목).md",
     "02. Area/Daily/2023/10/2023-10-11 (수).md",
@@ -245,14 +260,11 @@
     "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "03. Resources/Templetes/Daily Note.md",
     "무제 파일 1.md",
-    "04. Archive/Library.md",
-    "04. Archive/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "Attached Files/Pasted image 20231010140149.png",
     "Attached Files/Pasted image 20231009172731.png",
     "Attached Files/Pasted image 20231009172627.png",
     "Attached Files/Pasted image 20231009172515.png",
     "Attached Files/Pasted image 20231009172414.png",
-    "Attached Files/Pasted image 20231009171252.png",
     "무제 파일.canvas"
   ]
 }

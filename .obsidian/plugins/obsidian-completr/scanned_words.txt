@@ -30,6 +30,7 @@ ipsum
 incididunt
 int
 inputManager
+initial
 dolor
 do
 dolore
@@ -60,6 +61,7 @@ color
 elit
 eiusmod
 et
+ex
 tempor
 turpis
 tincidunt
@@ -88,6 +90,7 @@ InputManager
 Int
 ornare
 out
+operator
 Resources
 Requirement
 Raycast
@@ -114,6 +117,7 @@ WorldToCell
 Weekly
 grid
 gridPosition
+goal
 with
 wide
 Jane
@@ -129,6 +133,7 @@ Mover
 FRI
 page
 placementLayermask
+path
 fantasy
 false
 float
@@ -144,3 +149,4 @@ HDRP
 Area
 Archive
 Auto
+queen
