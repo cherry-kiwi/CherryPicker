@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Montly/2023/2023-10월.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-13 (금).md",
+                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-13 (금).md",
+                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-13 (금).md",
+                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-13 (금).md"
+                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md"
               }
             }
           },
@@ -195,9 +195,10 @@
   },
   "active": "d26902a10173ff8c",
   "lastOpenFiles": [
-    "02. Area/Montly/2023/2023-10월.md",
-    "03. Resources/Templetes/Homepage.md",
     "02. Area/Daily/2023/10/2023-10-13 (금).md",
+    "02. Area/Daily/2023/10/2023-10-14 (토).md",
+    "03. Resources/Templetes/Homepage.md",
+    "02. Area/Montly/2023/2023-10월.md",
     "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "01. Projects/2023-10-24 (화).md",
     "Attached Files/Pasted image 20231013152336.png",
