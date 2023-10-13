@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
+                "file": "03. Resources/List/Movie.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
+                "file": "03. Resources/List/Movie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
+                "file": "03. Resources/List/Movie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md"
+                "file": "03. Resources/List/Movie.md"
               }
             }
           },
@@ -217,10 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "1bee14fadd96271f",
   "lastOpenFiles": [
-    "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
+    "Attached Files/Pasted image 20231013140424.png",
+    "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
     "Attached Files/Pasted image 20231013135556.png",
     "Attached Files/Pasted image 20231013135548.png",
@@ -261,10 +262,8 @@
     "02. Area/Daily/2023/10/2023-10-11 (수).md",
     "04. Archive/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
     "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
-    "03. Resources/Templetes/Daily Note.md",
     "Attached Files/Pasted image 20231010140149.png",
     "Attached Files/Pasted image 20231009172731.png",
-    "Attached Files/Pasted image 20231009172627.png",
     "무제 파일.canvas"
   ]
 }
