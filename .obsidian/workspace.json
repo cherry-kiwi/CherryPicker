@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -193,14 +192,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b1891c7526510e6",
+  "active": "ab2ff9bede2146b3",
   "lastOpenFiles": [
+    "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "Attached Files/Pasted image 20231013152336.png",
     "Attached Files/Pasted image 20231013152253.png",
     "03. Resources/Templetes/Homepage.md",
     "02. Area/Montly/2023/2023-10월.md",
     "02. Area/Weekly/2023/2023-41주차.md",
-    "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "Attached Files/Pasted image 20231013150915.png",
     "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
@@ -224,7 +223,6 @@
     "Attached Files/Pasted image 20231013020620.png",
     "Attached Files/Pasted image 20231013020603.png",
     "Attached Files/Pasted image 20231013020509.png",
-    "Attached Files/Pasted image 20231013015022.png",
     "02. Area/Daily/2023/10/2023-10-08.md",
     "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
