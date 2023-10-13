@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0db48feac3cfad10",
+        "id": "ec5d3d5d96aea716",
         "type": "tabs",
         "children": [
           {
-            "id": "7e458f25a783091d",
+            "id": "ab2ff9bede2146b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Weekly/2023/2023-41주차.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0f1fc263065ed7a",
+            "id": "cbd30949261da185",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "b88f785badd10712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d80f7238470f5b63",
+            "id": "a8c7c939495ee202",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -217,15 +205,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d80f7238470f5b63",
+  "active": "a8c7c939495ee202",
   "lastOpenFiles": [
-    "01. Projects/인공지능/퍼셉트론.md",
-    "01. Projects/인공지능/02. 탐색.md",
-    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
     "02. Area/Daily/2023/10/2023-10-13 (금).md",
+    "01. Projects/인공지능/02. 탐색.md",
+    "03. Resources/Templetes/Homepage.md",
+    "01. Projects/인공지능/퍼셉트론.md",
+    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
     "01. Projects/2023-10-24 (화).md",
     "02. Area/Weekly/2023/2023-41주차.md",
-    "03. Resources/Templetes/Homepage.md",
     "01. Projects/체감형 VR HDRP.md",
     "01. Projects/캡스톤 개발일지/01..md",
     "04. Archive/노트 예시.md",
