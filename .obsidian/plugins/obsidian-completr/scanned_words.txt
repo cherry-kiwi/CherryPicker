@@ -58,10 +58,13 @@ cellIndicator
 cf
 ctrl
 color
+close
 elit
 eiusmod
 et
 ex
+edge
+expand
 tempor
 turpis
 tincidunt
@@ -91,6 +94,7 @@ Int
 ornare
 out
 operator
+oepn
 Resources
 Requirement
 Raycast

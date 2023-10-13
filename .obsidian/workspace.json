@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "a8c7c939495ee202",
+            "id": "6b1891c7526510e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1bee14fadd96271f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Resources/List/Movie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/List/Movie.md",
+                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/List/Movie.md",
+                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/List/Movie.md"
+                "file": "01. Projects/인공지능/02. 탐색/02. 탐색.md"
               }
             }
           },
@@ -217,18 +205,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1bee14fadd96271f",
+  "active": "6b1891c7526510e6",
   "lastOpenFiles": [
-    "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
-    "Attached Files/Pasted image 20231013140424.png",
+    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "01. Projects/인공지능/02. 탐색/02. 탐색.md",
+    "01. Projects/인공지능/02. 탐색/4-queen 문제 탐색 트리.md",
+    "03. Resources/List/Movie.md",
+    "Attached Files/Pasted image 20231013140424.png",
     "01. Projects/인공지능/02. 탐색/N-queen 문제.md",
     "Attached Files/Pasted image 20231013135556.png",
     "Attached Files/Pasted image 20231013135548.png",
     "01. Projects/인공지능/02. 탐색/지도 상에서의 경로 발견 문제.md",
     "Attached Files/Pasted image 20231013135322.png",
     "01. Projects/인공지능/02. 탐색",
-    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "03. Resources/Templetes/Homepage.md",
     "01. Projects/인공지능/퍼셉트론.md",
     "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
@@ -249,7 +238,6 @@
     "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
     "02. Area/Daily/2023/09",
-    "03. Resources/List/Movie.md",
     "02. Area/Yearly/2023년.md",
     "02. Area/Weekly/2023",
     "02. Area/Montly/2023",
