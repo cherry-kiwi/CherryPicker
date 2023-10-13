@@ -45,6 +45,7 @@ sketches
 sng
 state
 space
+search
 amet
 adipiscing
 aliqua
@@ -70,6 +71,7 @@ turpis
 tincidunt
 true
 ut
+uninformed
 labore
 lectus
 list
@@ -82,6 +84,7 @@ maxDistance
 mousePos
 mouseIndicator
 mousePosition
+method
 Background
 Vitae
 Vector
@@ -154,3 +157,4 @@ Area
 Archive
 Auto
 queen
+blind
