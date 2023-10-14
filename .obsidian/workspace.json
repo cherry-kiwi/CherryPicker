@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/선형 회귀.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/선형 회귀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/선형 회귀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/선형 회귀에서 경사하강법.md"
+                "file": "01. Projects/인공지능/10. 선형 회귀/선형 회귀.md"
               }
             }
           },
@@ -219,6 +219,11 @@
   },
   "active": "01ebeea59b45d90b",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20231014174753.png",
+    "Attached Files/Pasted image 20231014174735.png",
+    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
+    "01. Projects/인공지능/10. 선형 회귀/선형 회귀.md",
+    "01. Projects/인공지능/10. 선형 회귀",
     "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "02. Area/Montly/2023/2023-10월.md",
     "03. Resources/Templetes/Homepage.md",
@@ -239,7 +244,6 @@
     "Attached Files/Pasted image 20231013135322.png",
     "01. Projects/인공지능/02. 탐색",
     "01. Projects/인공지능/퍼셉트론.md",
-    "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
     "01. Projects/체감형 VR HDRP.md",
     "01. Projects/캡스톤 개발일지/01..md",
     "04. Archive/노트 예시.md",
@@ -248,7 +252,6 @@
     "03. Resources/Templetes/Weekly Note.md",
     "Attached Files/Pasted image 20231013020620.png",
     "Attached Files/Pasted image 20231013020603.png",
-    "Attached Files/Pasted image 20231013020509.png",
     "02. Area/Daily/2023/10/2023-10-08.md",
     "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
@@ -259,12 +262,9 @@
     "02. Area/Daily/2023",
     "02. Area/Yearly",
     "02. Area/Montly",
-    "02. Area/Weekly",
     "2023-10-13.md",
     "02. Area/Daily/2023/10/2023-10-12 (목).md",
     "02. Area/Daily/2023/10/2023-10-11 (수).md",
-    "04. Archive/당신의 세포들 개발일지/04. 배치 충돌 감지.md",
-    "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "무제 파일.canvas"
   ]
 }
