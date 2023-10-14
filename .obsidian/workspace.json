@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
+                "file": "01. Projects/캡스톤 개발일지/01..md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
+                "file": "01. Projects/캡스톤 개발일지/01..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
+                "file": "01. Projects/캡스톤 개발일지/01..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md"
+                "file": "01. Projects/캡스톤 개발일지/01..md"
               }
             }
           },
@@ -219,10 +219,10 @@
   },
   "active": "01ebeea59b45d90b",
   "lastOpenFiles": [
+    "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
     "Attached Files/Pasted image 20231014174753.png",
     "Attached Files/Pasted image 20231014174735.png",
     "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
-    "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
     "01. Projects/인공지능/10. 선형 회귀",
     "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "02. Area/Montly/2023/2023-10월.md",
@@ -251,7 +251,6 @@
     "03. Resources/Templetes/Monthly Note.md",
     "03. Resources/Templetes/Weekly Note.md",
     "Attached Files/Pasted image 20231013020620.png",
-    "Attached Files/Pasted image 20231013020603.png",
     "02. Area/Daily/2023/10/2023-10-08.md",
     "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
