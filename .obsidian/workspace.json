@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
+                "file": "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5124969482422,
-    "collapsed": true
+    "width": 251.50418853759766
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
+                "file": "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
+                "file": "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md"
+                "file": "01. Projects/캡스톤 개발일지/기획/초기 기획.md"
               }
             }
           },
@@ -182,11 +181,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "01ebeea59b45d90b",
   "lastOpenFiles": [
+    "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
+    "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
+    "01. Projects/캡스톤 개발일지/기획",
+    "01. Projects/캡스톤 개발일지/개발",
     "02. Area/Daily/2023/10/2023-10-15 (일).md",
     "03. Resources/Templetes/Daily Note.md",
-    "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
     "04. Archive/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "04. Archive/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
@@ -222,14 +224,11 @@
     "03. Resources/Templetes/Weekly Note.md",
     "Attached Files/Pasted image 20231013020620.png",
     "02. Area/Daily/2023/10/2023-10-08.md",
-    "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
     "02. Area/Daily/2023/09",
     "02. Area/Weekly/2023",
     "02. Area/Montly/2023",
     "02. Area/Daily/2023",
-    "02. Area/Yearly",
-    "02. Area/Montly",
     "무제 파일.canvas"
   ]
 }
