@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab2ff9bede2146b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b633e0d5aacee29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Area/Montly/2023/2023-10월.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d26902a10173ff8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-14 (토).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01ebeea59b45d90b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01..md",
+                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -107,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5124969482422
+    "width": 242.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01..md",
+                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01..md",
+                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/01..md"
+                "file": "01. Projects/캡스톤 개발일지/01. Grid Building System.md"
               }
             }
           },
@@ -202,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,14 +182,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01ebeea59b45d90b",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
+    "02. Area/Daily/2023/10/2023-10-15 (일).md",
+    "03. Resources/Templetes/Daily Note.md",
+    "01. Projects/캡스톤 개발일지/01. Grid Building System.md",
+    "04. Archive/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
+    "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
+    "04. Archive/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
+    "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
     "Attached Files/Pasted image 20231014174753.png",
     "Attached Files/Pasted image 20231014174735.png",
     "01. Projects/인공지능/선형 회귀에서 경사하강법.md",
     "01. Projects/인공지능/10. 선형 회귀",
-    "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "02. Area/Montly/2023/2023-10월.md",
     "03. Resources/Templetes/Homepage.md",
     "02. Area/Daily/2023/10/2023-10-13 (금).md",
@@ -245,7 +216,6 @@
     "01. Projects/인공지능/02. 탐색",
     "01. Projects/인공지능/퍼셉트론.md",
     "01. Projects/체감형 VR HDRP.md",
-    "01. Projects/캡스톤 개발일지/01..md",
     "04. Archive/노트 예시.md",
     "01. Projects/캡스톤 개발일지",
     "03. Resources/Templetes/Monthly Note.md",
@@ -255,15 +225,11 @@
     "02. Area/Daily/2023/10/2023-10-01.md",
     "02. Area/Daily/2023/10",
     "02. Area/Daily/2023/09",
-    "02. Area/Yearly/2023년.md",
     "02. Area/Weekly/2023",
     "02. Area/Montly/2023",
     "02. Area/Daily/2023",
     "02. Area/Yearly",
     "02. Area/Montly",
-    "2023-10-13.md",
-    "02. Area/Daily/2023/10/2023-10-12 (목).md",
-    "02. Area/Daily/2023/10/2023-10-11 (수).md",
     "무제 파일.canvas"
   ]
 }
