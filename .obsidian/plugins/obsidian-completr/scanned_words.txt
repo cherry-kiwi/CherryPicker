@@ -29,6 +29,7 @@ UI
 Update
 URP
 Unlit
+Unity
 Case
 Craft
 Core
@@ -60,6 +61,7 @@ sng
 state
 space
 search
+static
 amet
 adipiscing
 aliqua
@@ -77,6 +79,7 @@ close
 completeness
 complexity
 closed
+current
 elit
 eiusmod
 et
@@ -107,6 +110,7 @@ mousePosition
 method
 Background
 Builders
+Building
 Vitae
 Vector
 VFX
@@ -142,10 +146,12 @@ Shading
 Sub
 Sorting
 Sprite
+Start
 Grid
 Goals
 GetSelectedMapPosition
 Graph
+GridBuildingSystem
 Example
 Objectives
 Object
@@ -173,6 +179,7 @@ Plane
 PBR
 Physically
 Prefab
+Placemet
 MON
 MEMO
 Monthly
@@ -180,11 +187,14 @@ Mover
 Material
 Mode
 Main
+Methods
+Management
 FRI
 First
 page
 placementLayermask
 path
+public
 fantasy
 false
 float
@@ -203,6 +213,7 @@ House
 Area
 Archive
 Auto
+Awake
 queen
 blind
 based
