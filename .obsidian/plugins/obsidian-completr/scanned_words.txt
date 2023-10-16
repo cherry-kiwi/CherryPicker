@@ -43,6 +43,7 @@ CellToWorld
 Create
 Color
 City
+CPU
 ipsum
 incididunt
 int
@@ -86,6 +87,7 @@ completeness
 complexity
 closed
 current
+classification
 elit
 eiusmod
 et
@@ -139,6 +141,7 @@ operator
 oepn
 optimality
 open
+or
 Resources
 Requirement
 Raycast
@@ -228,6 +231,7 @@ ray
 raycast
 raycastHit
 renderer
+regression
 HDRP
 House
 Area
