@@ -5,6 +5,8 @@ Tags
 Tilemap
 Thickness
 Temp
+TempTilemap
+TileType
 Do
 Diary
 Define
@@ -46,6 +48,7 @@ inputManager
 initial
 isolation
 in
+instance
 dolor
 do
 dolore
@@ -62,6 +65,7 @@ state
 space
 search
 static
+start
 amet
 adipiscing
 aliqua
@@ -91,6 +95,8 @@ turpis
 tincidunt
 true
 time
+this
+temp
 ut
 uninformed
 unlit
@@ -108,9 +114,11 @@ mousePos
 mouseIndicator
 mousePosition
 method
+main
 Background
 Builders
 Building
+Build
 Vitae
 Vector
 VFX
@@ -133,6 +141,7 @@ Raycast
 Ray
 RaycastHit
 RTS
+Red
 Story
 System
 SUN
@@ -152,7 +161,10 @@ Goals
 GetSelectedMapPosition
 Graph
 GridBuildingSystem
+GridLayout
+Green
 Example
+Empty
 Objectives
 Object
 ObjectsDatabaseScriptableObject
@@ -164,9 +176,11 @@ WED
 WorldToCell
 Weekly
 Wireframe
+White
 grid
 gridPosition
 goal
+gridLayout
 with
 wide
 Jane
@@ -189,6 +203,7 @@ Mode
 Main
 Methods
 Management
+MainTilemap
 FRI
 First
 page
