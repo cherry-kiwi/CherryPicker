@@ -20,12 +20,14 @@ Depth
 DefaultScale
 Default
 Dictionary
+Descent
 List
 Lorem
 Learning
 Log
 Lord
 Layer
+Loss
 KT
 Use
 User
@@ -173,6 +175,7 @@ Graph
 GridBuildingSystem
 GridLayout
 Green
+Gradient
 Example
 Empty
 Objectives
@@ -215,6 +218,7 @@ Main
 Methods
 Management
 MainTilemap
+Method
 FRI
 First
 page
