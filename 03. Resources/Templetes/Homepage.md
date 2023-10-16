@@ -8,7 +8,7 @@
 > [!multi-column]
 >
 >> [!note]+ <font color="#d99694">Weekly Note</font>
->> # [[2023-41주차]]
+>> # [[2023-42주차]]
 >
 >> [!note]+ <font color="#d99694">Monthly Note</font>
 >> # [[2023-10월]]

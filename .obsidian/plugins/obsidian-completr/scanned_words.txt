@@ -7,6 +7,7 @@ Thickness
 Temp
 TempTilemap
 TileType
+TileBase
 Do
 Diary
 Define
@@ -18,6 +19,7 @@ DFS
 Depth
 DefaultScale
 Default
+Dictionary
 List
 Lorem
 Learning
@@ -97,6 +99,7 @@ true
 time
 this
 temp
+tileBases
 ut
 uninformed
 unlit
@@ -124,6 +127,7 @@ Vector
 VFX
 nunc
 null
+new
 velit
 In
 InputManager
@@ -210,6 +214,7 @@ page
 placementLayermask
 path
 public
+private
 fantasy
 false
 float
