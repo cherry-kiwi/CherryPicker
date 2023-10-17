@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "371bd1f269d3bf23",
+            "id": "f364c8497cae34fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Area/Daily/2023/10/2023-10-18 (수).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcdfe9a0815be808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02. Area/Daily/2023/10/2023-10-17 (화).md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26e6c598120fb91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Area/Weekly/2023/2023-42주차.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -173,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,11 +214,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "371bd1f269d3bf23",
+  "active": "fcdfe9a0815be808",
   "lastOpenFiles": [
+    "02. Area/Daily/2023/10/2023-10-18 (수).md",
+    "02. Area/Weekly/2023/2023-42주차.md",
+    "02. Area/Daily/2023/10/2023-10-17 (화).md",
     "01. Projects/인공지능/03. 게임 트리/미니 맥스 알고리즘.md",
     "01. Projects/인공지능/12. 퍼셉트론/퍼셉트론.md",
-    "02. Area/Daily/2023/10/2023-10-17 (화).md",
     "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
     "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "Attached Files/Pasted image 20231017150544.png",
@@ -216,7 +244,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "01. Projects/체감형 VR HDRP.md",
-    "02. Area/Weekly/2023/2023-42주차.md",
     "03. Resources/Templetes/Homepage.md",
     "02. Area/Weekly/2023/2023-41주차.md",
     "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
@@ -232,7 +259,6 @@
     "04. Archive/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
     "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "01. Projects/인공지능/10. 선형 회귀",
-    "02. Area/Daily/2023/10/2023-10-13 (금).md",
     "01. Projects/인공지능/02. 탐색",
     "01. Projects/캡스톤 개발일지",
     "02. Area/Daily/2023/10",
