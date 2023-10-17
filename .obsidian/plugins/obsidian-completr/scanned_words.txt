@@ -219,6 +219,8 @@ Methods
 Management
 MainTilemap
 Method
+MAX
+MIN
 FRI
 First
 page
