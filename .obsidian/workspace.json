@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-17 (화).md",
+                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-17 (화).md",
+                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-17 (화).md",
+                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-17 (화).md"
+                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md"
               }
             }
           },
@@ -216,9 +216,15 @@
   },
   "active": "fcdfe9a0815be808",
   "lastOpenFiles": [
+    "Attached Files/Pasted image 20231018034924.png",
+    "Attached Files/Pasted image 20231018034400.png",
+    "Attached Files/Pasted image 20231018034345.png",
+    "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
+    "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+    "01. Projects/체감형 VR HDRP.md",
+    "02. Area/Daily/2023/10/2023-10-17 (화).md",
     "02. Area/Daily/2023/10/2023-10-18 (수).md",
     "02. Area/Weekly/2023/2023-42주차.md",
-    "02. Area/Daily/2023/10/2023-10-17 (화).md",
     "01. Projects/인공지능/03. 게임 트리/미니 맥스 알고리즘.md",
     "01. Projects/인공지능/12. 퍼셉트론/퍼셉트론.md",
     "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
@@ -233,20 +239,16 @@
     "Attached Files/Pasted image 20231017141255.png",
     "Attached Files/Pasted image 20231017135803.png",
     "Attached Files/Pasted image 20231017005715.png",
-    "Attached Files/Pasted image 20231017005644.png",
     "01. Projects/인공지능/12. 퍼셉트론",
     "01. Projects/인공지능/03. 게임 트리",
     "01. Projects/인공지능/인공지능.md",
-    "Attached Files/Pasted image 20231016212753.png",
     "Pasted.md",
     "01. Projects/2023-10-24 (화).md",
     "01. Projects/01. Projects.md",
     "Context/spacesLastSync.log",
     "Context",
-    "01. Projects/체감형 VR HDRP.md",
     "03. Resources/Templetes/Homepage.md",
     "02. Area/Weekly/2023/2023-41주차.md",
-    "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
     "03. Resources/Unity/딕셔너리.md",
     "02. Area/Montly/2023/2023-10월.md",
     "02. Area/Daily/2023/10/2023-10-15 (일).md",
@@ -256,8 +258,6 @@
     "03. Resources/Templetes/Daily Note.md",
     "04. Archive/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
     "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
-    "04. Archive/당신의 세포들 개발일지/02. 그리드를 보이게 하기.md",
-    "02. Area/Daily/2023/10/2023-10-14 (토).md",
     "01. Projects/인공지능/10. 선형 회귀",
     "01. Projects/인공지능/02. 탐색",
     "01. Projects/캡스톤 개발일지",
