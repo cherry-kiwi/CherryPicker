@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "02. Area/Daily/2023/10/2023-10-18 (수).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da6b292011bfe20d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md"
               }
             }
           },
@@ -190,8 +203,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e3a554a7a01fdcb",
+  "active": "da6b292011bfe20d",
   "lastOpenFiles": [
+    "02. Area/Daily/2023/10/2023-10-18 (수).md",
+    "02. Area/Daily/2023/10/2023-10-24 (화).md",
+    "02. Area/Daily/2023/10/2023-10-16 (월).md",
+    "03. Resources/Templetes/Homepage.md",
+    "Attached Files/Pasted image 20231018123933.png",
+    "Attached Files/Pasted image 20231018113542.png",
+    "Attached Files/Pasted image 20231018113528.png",
+    "Attached Files/Pasted image 20231018113525.png",
+    "01. Projects/캡스톤.md",
+    "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
     "Attached Files/Pasted image 20231018034924.png",
     "Attached Files/Pasted image 20231018034400.png",
     "Attached Files/Pasted image 20231018034345.png",
@@ -199,7 +222,6 @@
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/체감형 VR HDRP.md",
     "02. Area/Daily/2023/10/2023-10-17 (화).md",
-    "02. Area/Daily/2023/10/2023-10-18 (수).md",
     "02. Area/Weekly/2023/2023-42주차.md",
     "01. Projects/인공지능/03. 게임 트리/미니 맥스 알고리즘.md",
     "01. Projects/인공지능/12. 퍼셉트론/퍼셉트론.md",
@@ -207,14 +229,8 @@
     "01. Projects/인공지능/02. 탐색/02. 탐색.md",
     "Attached Files/Pasted image 20231017150544.png",
     "01. Projects/인공지능/10. 선형 회귀/선형 회귀에서 경사하강법.md",
-    "02. Area/Daily/2023/10/2023-10-16 (월).md",
     "Attached Files/Pasted image 20231017143256.png",
     "Attached Files/Pasted image 20231017142636.png",
-    "Attached Files/Pasted image 20231017142105.png",
-    "Attached Files/Pasted image 20231017141643.png",
-    "Attached Files/Pasted image 20231017141255.png",
-    "Attached Files/Pasted image 20231017135803.png",
-    "Attached Files/Pasted image 20231017005715.png",
     "01. Projects/인공지능/12. 퍼셉트론",
     "01. Projects/인공지능/03. 게임 트리",
     "01. Projects/인공지능/인공지능.md",
@@ -223,7 +239,6 @@
     "01. Projects/01. Projects.md",
     "Context/spacesLastSync.log",
     "Context",
-    "03. Resources/Templetes/Homepage.md",
     "02. Area/Weekly/2023/2023-41주차.md",
     "03. Resources/Unity/딕셔너리.md",
     "02. Area/Montly/2023/2023-10월.md",
@@ -231,9 +246,6 @@
     "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
     "01. Projects/캡스톤 개발일지/기획",
     "01. Projects/캡스톤 개발일지/개발",
-    "03. Resources/Templetes/Daily Note.md",
-    "04. Archive/당신의 세포들 개발일지/01. 셀 포지션 계산하기.md",
-    "04. Archive/당신의 세포들 개발일지/03. 오브젝트 위치시키기.md",
     "01. Projects/인공지능/10. 선형 회귀",
     "01. Projects/인공지능/02. 탐색",
     "01. Projects/캡스톤 개발일지",

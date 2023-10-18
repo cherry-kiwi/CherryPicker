@@ -50,6 +50,9 @@ Color
 City
 CPU
 Chiness
+Canvas
+Camera
+Constant
 ipsum
 incididunt
 int
@@ -167,6 +170,9 @@ Ray
 RaycastHit
 RTS
 Red
+Render
+Reference
+Resolution
 Story
 System
 SUN
@@ -182,6 +188,11 @@ Sorting
 Sprite
 Start
 Seed
+Screen
+Space
+Scaler
+Scale
+Scalar
 Grid
 Goals
 GetSelectedMapPosition
@@ -200,12 +211,17 @@ ObjectsDatabaseScriptableObject
 OnClicked
 OnExit
 Order
+Overaly
+Orthographic
+Or
 Work
 WED
 WorldToCell
 Weekly
 Wireframe
 White
+With
+Width
 grid
 gridPosition
 goal
@@ -228,6 +244,9 @@ Placemet
 Pasted
 Parking
 Pack
+Projection
+Pixel
+Physical
 MON
 MEMO
 Monthly
@@ -243,6 +262,7 @@ MAX
 MIN
 Moduler
 Modular
+Match
 FRI
 First
 Force
@@ -270,6 +290,7 @@ regression
 HDRP
 House
 Hunter
+Height
 Area
 Archive
 Auto
