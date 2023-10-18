@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f84cf197b45fdf3d",
+        "id": "b1e38407384480c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f364c8497cae34fc",
+            "id": "7e3a554a7a01fdcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Daily/2023/10/2023-10-18 (수).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcdfe9a0815be808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26e6c598120fb91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Area/Weekly/2023/2023-42주차.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.50418853759766
+    "width": 251.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -214,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcdfe9a0815be808",
+  "active": "7e3a554a7a01fdcb",
   "lastOpenFiles": [
     "Attached Files/Pasted image 20231018034924.png",
     "Attached Files/Pasted image 20231018034400.png",
