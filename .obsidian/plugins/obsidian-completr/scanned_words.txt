@@ -193,6 +193,12 @@ Space
 Scaler
 Scale
 Scalar
+Shrink
+SetResolution
+SetWidth
+SetHeight
+Safe
+SafeArea
 Grid
 Goals
 GetSelectedMapPosition
@@ -202,9 +208,11 @@ GridLayout
 Green
 Gradient
 GBS
+GOOD
 Example
 Empty
 Erbeilo
+Expand
 Objectives
 Object
 ObjectsDatabaseScriptableObject
@@ -230,6 +238,7 @@ with
 wide
 weight
 while
+width
 Jane
 Personal
 PlacementSystem
@@ -277,11 +286,13 @@ false
 float
 font
 function
+fullscreen
 Note
 hit
 hitInfo
 hdrp
 heuristic
+height
 ray
 raycast
 raycastHit
@@ -299,3 +310,4 @@ Abandoned
 queen
 blind
 based
+bool

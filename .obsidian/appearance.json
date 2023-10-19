@@ -7,5 +7,6 @@
     "MCL Wide Views"
   ],
   "theme": "moonstone",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 15
 }
