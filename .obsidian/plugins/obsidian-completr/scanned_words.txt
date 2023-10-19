@@ -24,6 +24,7 @@ DefaultScale
 Default
 Dictionary
 Descent
+Day
 List
 Lorem
 Learning
@@ -63,6 +64,7 @@ in
 instance
 image
 input
+item
 dolor
 do
 dolore
@@ -281,6 +283,7 @@ path
 public
 private
 png
+planner
 fantasy
 false
 float
@@ -288,6 +291,7 @@ font
 function
 fullscreen
 Note
+New
 hit
 hitInfo
 hdrp

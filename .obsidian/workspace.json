@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1e38407384480c1",
+        "id": "1e6f8b021493dd4c",
         "type": "tabs",
         "children": [
           {
-            "id": "da6b292011bfe20d",
+            "id": "9fa7727a5da88013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
+                "file": "01. Projects/2023-10-20 (금).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
+                "file": "01. Projects/2023-10-20 (금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
+                "file": "01. Projects/2023-10-20 (금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md"
+                "file": "01. Projects/2023-10-20 (금).md"
               }
             }
           },
@@ -153,9 +153,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ff23b09e8c962fe9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "33506663f1b2e567",
@@ -173,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,17 +193,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
+      "obsidian-day-planner:Timeline": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "da6b292011bfe20d",
+  "active": "9fa7727a5da88013",
   "lastOpenFiles": [
+    "02. Area/Daily/2023/10/2023-10-20 (금).md",
+    "02. Area/Daily/2023/10/2023-10-19 (목).md",
+    "01. Projects/2023-10-20 (금).md",
+    "01. Projects/2023-10-19 (목).md",
+    "03. Resources/Templetes/Homepage.md",
     "02. Area/Daily/2023/10/2023-10-18 (수).md",
+    "02. Area/Daily/2023/10/2023-10-24 (화).md",
+    "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
     "02. Area/Daily/2023/10/2023-10-17 (화).md",
     "02. Area/Daily/2023/10/2023-10-16 (월).md",
-    "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
-    "02. Area/Daily/2023/10/2023-10-24 (화).md",
-    "03. Resources/Templetes/Homepage.md",
     "Attached Files/Pasted image 20231018123933.png",
     "Attached Files/Pasted image 20231018113542.png",
     "Attached Files/Pasted image 20231018113528.png",
@@ -227,9 +239,6 @@
     "Context",
     "02. Area/Weekly/2023/2023-41주차.md",
     "03. Resources/Unity/딕셔너리.md",
-    "02. Area/Montly/2023/2023-10월.md",
-    "02. Area/Daily/2023/10/2023-10-15 (일).md",
-    "01. Projects/캡스톤 개발일지/기획/초기 기획.md",
     "01. Projects/캡스톤 개발일지/기획",
     "01. Projects/캡스톤 개발일지/개발",
     "01. Projects/인공지능/10. 선형 회귀",
