@@ -37,6 +37,8 @@ ex) 16:9 비율일 시, Screen.SetResolution( Screen.width, (Screen.width * 16) 
 ## 아이폰 노치 대응 (Safe Area)
 - SafeArea 
 ```
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class SafeArea : MonoBehaviour
@@ -63,8 +65,8 @@ public class SafeArea : MonoBehaviour
     }
 }
 ```
-1. Canvas 하위에 빈 오브젝트를 하나 만든 뒤, 설정을 해주고
-2. Canvas 요소들을 자식으로 보낸다
+1. Canvas 하위에 빈 오브젝트를 하나 만든 뒤, 위 스크립트를 넣어주고, 
+2. Button 등의 UI 요소들을 Safe Area 오브젝트 
 
 
 참고 글
