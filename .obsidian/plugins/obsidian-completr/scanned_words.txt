@@ -104,6 +104,9 @@ closed
 current
 classification
 cost
+cssClasses
+cards
+cover
 elit
 eiusmod
 et
@@ -119,6 +122,7 @@ this
 temp
 tileBases
 the
+table
 ut
 uninformed
 unlit
@@ -138,10 +142,12 @@ mouseIndicator
 mousePosition
 method
 main
+max
 Background
 Builders
 Building
 Build
+Button
 Vitae
 Vector
 VFX
@@ -157,6 +163,7 @@ InputManager
 Int
 Isometric
 Inside
+IP
 ornare
 out
 operator
@@ -165,6 +172,7 @@ optimality
 open
 or
 of
+oK
 Resources
 Requirement
 Raycast
@@ -315,3 +323,4 @@ queen
 blind
 based
 bool
+books

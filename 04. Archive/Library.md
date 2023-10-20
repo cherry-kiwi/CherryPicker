@@ -1,1 +1,0 @@
-https://steemit.com/hive-101145/@anpigon/332
