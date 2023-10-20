@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/Grid Building System.md"
+                "file": "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "2082d0f8ec61da25",
   "lastOpenFiles": [
-    "01. Projects/Quick Note.md",
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+    "01. Projects/Quick Note.md",
     "02. Area/Daily/2023/10/2023-10-20 (금).md",
     "02. Area/Daily/2023/10/2023-10-24 (화).md",
     "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
