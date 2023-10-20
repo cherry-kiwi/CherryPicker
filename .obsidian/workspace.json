@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6f8b021493dd4c",
+        "id": "019cc1d45b029f16",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa7727a5da88013",
+            "id": "2082d0f8ec61da25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "ff23b09e8c962fe9",
+            "id": "e89e26d82772534a",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -197,14 +197,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fa7727a5da88013",
+  "active": "2082d0f8ec61da25",
   "lastOpenFiles": [
     "02. Area/Daily/2023/10/2023-10-20 (금).md",
-    "02. Area/Daily/2023/10/2023-10-19 (목).md",
     "01. Projects/2023-10-20 (금).md",
     "01. Projects/2023-10-19 (목).md",
-    "03. Resources/Templetes/Homepage.md",
+    "02. Area/Daily/2023/10/2023-10-19 (목).md",
     "02. Area/Daily/2023/10/2023-10-18 (수).md",
+    "03. Resources/Templetes/Daily Note.md",
+    "03. Resources/Templetes/Wide Views.md",
+    "03. Resources/Templetes/Weekly Note.md",
+    "03. Resources/Templetes/Homepage.md",
     "02. Area/Daily/2023/10/2023-10-24 (화).md",
     "01. Projects/캡스톤 개발일지/개발/UI 해상도 대응.md",
     "02. Area/Daily/2023/10/2023-10-17 (화).md",
@@ -233,12 +236,8 @@
     "01. Projects/인공지능/03. 게임 트리",
     "01. Projects/인공지능/인공지능.md",
     "Pasted.md",
-    "01. Projects/2023-10-24 (화).md",
-    "01. Projects/01. Projects.md",
     "Context/spacesLastSync.log",
     "Context",
-    "02. Area/Weekly/2023/2023-41주차.md",
-    "03. Resources/Unity/딕셔너리.md",
     "01. Projects/캡스톤 개발일지/기획",
     "01. Projects/캡스톤 개발일지/개발",
     "01. Projects/인공지능/10. 선형 회귀",
