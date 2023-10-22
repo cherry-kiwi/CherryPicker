@@ -1,6 +1,24 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "02. Area/Daily/2023/10/2023-10-23 (월).md": [
+      {
+        "title": "캡스톤",
+        "time": "2023-10-23 10:00",
+        "rowNumber": 1
+      },
+      {
+        "title": "인공지능 과제",
+        "time": "2023-10-23 14:00",
+        "rowNumber": 2
+      },
+      {
+        "title": "한솔병원",
+        "time": "2023-10-23 16:00",
+        "rowNumber": 3
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
