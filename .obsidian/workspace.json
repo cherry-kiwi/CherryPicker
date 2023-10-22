@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "019cc1d45b029f16",
+        "id": "04521922382e9dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "2082d0f8ec61da25",
+            "id": "602783783e5ba15f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/인공지능/인공지능.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8a70a9906c46ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Projects/인공지능/인공지능.md",
-                "mode": "preview",
+                "file": "03. Resources/Templetes/Homepage.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/인공지능/인공지능.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/인공지능/인공지능.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,18 +129,6 @@
             }
           },
           {
-            "id": "13721ed710903b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Projects/Quick Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9cd36cd2f9018621",
             "type": "leaf",
             "state": {
@@ -167,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/인공지능/인공지능.md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -188,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "33506663f1b2e567",
@@ -218,11 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open today": false,
-      "kr-book-info-plugin:Add Book Info": false
+      "kr-book-info-plugin:Add Book Info": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fa8a70a9906c46ab",
+  "active": "602783783e5ba15f",
   "lastOpenFiles": [
     "Attached Files/Pasted image 20231022185801.png",
     "Attached Files/Pasted image 20231022180712.png",
