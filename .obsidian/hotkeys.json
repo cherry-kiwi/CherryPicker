@@ -33,14 +33,6 @@
       "key": "W"
     }
   ],
-  "obsidian-full-calendar:full-calendar-open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -97,6 +89,15 @@
         "Mod"
       ],
       "key": "K"
+    }
+  ],
+  "big-calendar:open-big-calendar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
     }
   ]
 }

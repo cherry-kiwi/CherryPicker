@@ -84,6 +84,8 @@ space
 search
 static
 start
+safe
+settings
 amet
 adipiscing
 aliqua
@@ -91,6 +93,7 @@ and
 alt
 activation
 asset
+area
 consectetur
 cursus
 cssClass
@@ -299,6 +302,7 @@ png
 planner
 perceptron
 predict
+plugin
 fantasy
 false
 float
@@ -331,5 +335,7 @@ blind
 based
 bool
 books
+basic
 XOR
 YES
+kanban

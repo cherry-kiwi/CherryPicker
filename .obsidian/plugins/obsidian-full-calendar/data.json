@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "rgb(214, 129, 125)",
+      "directory": "무제 폴더"
+    },
+    {
+      "type": "ical",
+      "color": "rgb(214, 129, 125)",
+      "url": "https://calendar.google.com/calendar/ical/54b6d444919d0f090d8da83a2d20c1f51d8c75e161f679536d2559ef49fcd233%40group.calendar.google.com/public/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
