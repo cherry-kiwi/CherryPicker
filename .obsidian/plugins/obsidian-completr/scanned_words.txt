@@ -72,6 +72,8 @@ dignissim
 dui
 draft
 dd
+dE
+db
 sit
 sed
 sodales
@@ -158,6 +160,7 @@ new
 nature
 velit
 vr
+vs
 In
 InputManager
 Int
@@ -282,6 +285,8 @@ MIN
 Moduler
 Modular
 Match
+MSE
+MAE
 FRI
 First
 Force
@@ -292,6 +297,8 @@ public
 private
 png
 planner
+perceptron
+predict
 fantasy
 false
 float
@@ -324,3 +331,4 @@ blind
 based
 bool
 books
+XOR
