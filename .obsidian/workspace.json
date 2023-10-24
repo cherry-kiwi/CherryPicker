@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md",
+                "file": "01. Projects/인공지능/인공지능.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md",
+                "file": "01. Projects/인공지능/인공지능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md",
+                "file": "01. Projects/인공지능/인공지능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md"
+                "file": "01. Projects/인공지능/인공지능.md"
               }
             }
           },
@@ -213,8 +213,10 @@
   },
   "active": "029d7b76c172028b",
   "lastOpenFiles": [
-    "02. Area/Daily/2023/10/2023-10-23 (월).md",
+    "Attached Files/Pasted image 20231024135010.png",
+    "Attached Files/Pasted image 20231024134943.png",
     "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md",
+    "02. Area/Daily/2023/10/2023-10-23 (월).md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/캡스톤.md",
@@ -243,14 +245,12 @@
     "03. Resources/Templetes/Wide Views.md",
     "03. Resources/Templetes/Weekly Note.md",
     "02. Area/Daily/2023/10/2023-10-17 (화).md",
-    "02. Area/Daily/2023/10/2023-10-16 (월).md",
     "Attached Files/Pasted image 20231018123933.png",
     "Attached Files/Pasted image 20231018113542.png",
     "Attached Files/Pasted image 20231018113528.png",
     "Attached Files/Pasted image 20231018113525.png",
     "Attached Files/Pasted image 20231018034924.png",
     "Attached Files/Pasted image 20231018034400.png",
-    "Attached Files/Pasted image 20231018034345.png",
     "01. Projects/인공지능/12. 퍼셉트론",
     "01. Projects/인공지능/03. 게임 트리",
     "Context/spacesLastSync.log",
