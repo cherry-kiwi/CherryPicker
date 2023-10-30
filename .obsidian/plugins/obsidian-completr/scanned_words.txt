@@ -159,6 +159,7 @@ Builders
 Building
 Build
 Button
+BuildingSystem
 Vitae
 Vector
 VFX
@@ -246,6 +247,7 @@ Order
 Overaly
 Orthographic
 Or
+ObjectDrag
 Work
 WED
 WorldToCell
@@ -280,6 +282,7 @@ Pack
 Projection
 Pixel
 Physical
+PlacableObject
 MON
 MEMO
 Monthly

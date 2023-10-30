@@ -11,7 +11,7 @@
 >> # [[2023-42주차]]
 >
 >> [!note]+ <font color="#d99694">Monthly Note</font>
->> # [[2023-10월]]
+>> # [[2023-11월]]
 >
 >> [!note]+ <font color="#d99694">Daily Note</font>
 >> # [[2023-10-16 (월)]]
