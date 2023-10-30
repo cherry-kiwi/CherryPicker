@@ -32,6 +32,7 @@ Log
 Lord
 Layer
 Loss
+LevelSystem
 KT
 Use
 User
@@ -54,6 +55,9 @@ Chiness
 Canvas
 Camera
 Constant
+CurrencySystem
+CurrentSystem
+CurrencyType
 ipsum
 incididunt
 int
@@ -94,6 +98,7 @@ alt
 activation
 asset
 area
+abstract
 consectetur
 cursus
 cssClass
@@ -118,6 +123,7 @@ et
 ex
 edge
 expand
+enum
 tempor
 turpis
 tincidunt
@@ -225,10 +231,12 @@ Green
 Gradient
 GBS
 GOOD
+Game
 Example
 Empty
 Erbeilo
 Expand
+Event
 Objectives
 Object
 ObjectsDatabaseScriptableObject

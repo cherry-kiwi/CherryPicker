@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Templetes/Homepage.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md"
               }
             }
           },
@@ -199,14 +199,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "405bcdb430de3595",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
+    "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+    "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
+    "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
+    "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
+    "03. Resources/Templetes/Homepage.md",
     "Attached Files/Pasted image 20231024135010.png",
     "Attached Files/Pasted image 20231024134943.png",
-    "01. Projects/캡스톤 개발일지/개발/02. 통화 시스템 & 레벨 시스템.md",
     "02. Area/Daily/2023/10/2023-10-23 (월).md",
-    "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
-    "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/캡스톤.md",
     "01. Projects/Quick Note.md",
     "무제 폴더",
@@ -216,14 +218,12 @@
     "03. Resources/Templetes/Daily Note.md",
     "03. Resources/List/Movie.md",
     "01. Projects/인공지능/인공지능.md",
-    "03. Resources/Templetes/Homepage.md",
     "Attached Files/Pasted image 20231022185801.png",
     "Attached Files/Pasted image 20231022180712.png",
     "Attached Files/Pasted image 20231022180640.png",
     "02. Area/Daily/2023/10/2023-10-20 (금).md",
     "02. Area/Daily/2023/10/2023-10-24 (화).md",
     "01. Projects/인공지능/10. 선형 회귀/10. 선형 회귀.md",
-    "01. Projects/캡스톤 개발일지/개발/01. Grid Building System.md",
     "04. Archive/Library/Library.md",
     "04. Archive/Library/유혹의 기술.md",
     "04. Archive/Library",
@@ -238,7 +238,6 @@
     "Attached Files/Pasted image 20231018113528.png",
     "Attached Files/Pasted image 20231018113525.png",
     "Attached Files/Pasted image 20231018034924.png",
-    "Attached Files/Pasted image 20231018034400.png",
     "01. Projects/인공지능/12. 퍼셉트론",
     "01. Projects/인공지능/03. 게임 트리",
     "Context/spacesLastSync.log",

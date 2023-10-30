@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "02. Area/Daily/2023/10/2023-10-23 (월).md": [
-      {
-        "title": "캡스톤",
-        "time": "2023-10-23 10:00",
-        "rowNumber": 4
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
