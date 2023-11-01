@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "297c97d2065042e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Resources/Templetes/Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b9bfdf1470104edb",
             "type": "leaf",
             "state": {
@@ -44,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -103,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Area/Weekly/2023/2023-44주차.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Area/Weekly/2023/2023-44주차.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Area/Weekly/2023/2023-44주차.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md"
               }
             }
           },
@@ -223,13 +211,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9bfdf1470104edb",
+  "active": "405bcdb430de3595",
   "lastOpenFiles": [
+    "02. Area/Weekly/2023/2023-44주차.md",
     "03. Resources/Templetes/Homepage.md",
     "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
-    "02. Area/Weekly/2023/2023-44주차.md",
     "03. Resources/Templetes/Weekly Note.md",
     "03. Resources/Templetes/Daily Note.md",
     "02. Area/Weekly/2023/2023-42주차.md",
