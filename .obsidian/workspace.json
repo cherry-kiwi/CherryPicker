@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
+                "file": "02. Area/Weekly/2023/2023-44주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
+                "file": "02. Area/Weekly/2023/2023-44주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
+                "file": "02. Area/Weekly/2023/2023-44주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Building System.md"
+                "file": "02. Area/Weekly/2023/2023-44주차.md"
               }
             }
           },
@@ -213,9 +213,10 @@
   },
   "active": "405bcdb430de3595",
   "lastOpenFiles": [
+    "01. Projects/캡스톤 개발일지/개발/02. Shopping System.md",
+    "01. Projects/캡스톤 개발일지/개발/03. Building System.md",
     "02. Area/Weekly/2023/2023-44주차.md",
     "03. Resources/Templetes/Homepage.md",
-    "01. Projects/캡스톤 개발일지/개발/02. Building System.md",
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
     "03. Resources/Templetes/Weekly Note.md",
