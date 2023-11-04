@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Unity/TMP 한글 custom size.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Unity/TMP 한글 custom size.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Unity/TMP 한글 custom size.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Unity/TMP 한글 custom size.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md"
               }
             }
           },
@@ -212,9 +213,9 @@
   },
   "active": "405bcdb430de3595",
   "lastOpenFiles": [
+    "03. Resources/Unity/TMP 한글 custom size.md",
     "Attached Files/Pasted image 20231104155900.png",
     "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
-    "03. Resources/Unity/TMP 한글 custom size.md",
     "01. Projects/캡스톤 개발일지/개발/03. Building System.md",
     "01. Projects/캡스톤 개발일지/개발/04. Shopping System.md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
@@ -249,7 +250,6 @@
     "Attached Files/Pasted image 20231018113542.png",
     "Attached Files/Pasted image 20231018113528.png",
     "Attached Files/Pasted image 20231018113525.png",
-    "Attached Files/Pasted image 20231018034924.png",
     "01. Projects/인공지능/12. 퍼셉트론",
     "01. Projects/인공지능/03. 게임 트리",
     "Context/spacesLastSync.log",

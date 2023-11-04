@@ -33,6 +33,8 @@ Lord
 Layer
 Loss
 LevelSystem
+LoadScene
+LoadSceneAsync
 KT
 Use
 User
@@ -99,6 +101,7 @@ activation
 asset
 area
 abstract
+allowSceneActivation
 consectetur
 cursus
 cssClass
@@ -222,6 +225,7 @@ SetWidth
 SetHeight
 Safe
 SafeArea
+SceneManager
 Grid
 Goals
 GetSelectedMapPosition
