@@ -11,6 +11,7 @@ TileBase
 Tic
 Tac
 Toe
+Tutorial
 Do
 Diary
 Define
@@ -25,6 +26,7 @@ Default
 Dictionary
 Descent
 Day
+DB
 List
 Lorem
 Learning
@@ -242,6 +244,7 @@ Empty
 Erbeilo
 Expand
 Event
+Ep
 Objectives
 Object
 ObjectsDatabaseScriptableObject
@@ -340,6 +343,7 @@ HDRP
 House
 Hunter
 Height
+HayDay
 Area
 Archive
 Auto
