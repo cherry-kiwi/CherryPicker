@@ -1,5 +1,3 @@
-### Log
-
 ### Diary
 
 ### To Lord
