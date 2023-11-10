@@ -248,9 +248,6 @@ Erbeilo
 Expand
 Event
 Ep
-Objectives
-Object
-ObjectsDatabaseScriptableObject
 OnClicked
 OnExit
 Order

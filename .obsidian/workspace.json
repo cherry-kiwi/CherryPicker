@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "089936512645f660",
+        "id": "3c1dc5323f747a27",
         "type": "tabs",
         "children": [
           {
-            "id": "85d66077a0ab611d",
+            "id": "740ebe2c06f845ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Resources/Unity/딕셔너리.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Resources/Unity/딕셔너리.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Resources/Unity/딕셔너리.md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Resources/Unity/딕셔너리.md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -199,7 +199,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "740ebe2c06f845ec",
   "lastOpenFiles": [
     "02. Area/Montly/2023/2023-11월.md",
     "02. Area/Weekly/2023/2023-44주차.md",
