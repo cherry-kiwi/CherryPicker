@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -199,8 +198,9 @@
   },
   "active": "740ebe2c06f845ec",
   "lastOpenFiles": [
-    "01. Projects/체감형 VR HDRP.md",
+    "03. Resources/Unity/Resources.Load 함수.md",
     "01. Projects/캡스톤 칸반보드.md",
+    "01. Projects/체감형 VR HDRP.md",
     "02. Area/Daily/2023/11/2023-11-10 (금).md",
     "03. Resources/Templetes/Daily Note.md",
     "03. Resources/Templetes/Weekly Note.md",
@@ -232,7 +232,6 @@
     "Attached Files/Pasted image 20231022185801.png",
     "Attached Files/Pasted image 20231022180712.png",
     "Attached Files/Pasted image 20231022180640.png",
-    "02. Area/Daily/2023/10/2023-10-20 (금).md",
     "04. Archive/Library",
     "Attached Files/Pasted image 20231018123933.png",
     "Attached Files/Pasted image 20231018113542.png",
