@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1dc5323f747a27",
+        "id": "f39d1b0e3ce98b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "740ebe2c06f845ec",
+            "id": "a1eecfc9806598ee",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -196,8 +196,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "740ebe2c06f845ec",
+  "active": "a1eecfc9806598ee",
   "lastOpenFiles": [
+    "03. Resources/Templetes/Homepage.md",
     "03. Resources/Unity/Resources.Load 함수.md",
     "01. Projects/캡스톤 칸반보드.md",
     "01. Projects/체감형 VR HDRP.md",
@@ -214,7 +215,6 @@
     "02. Area/Montly/2023/2023-10월.md",
     "02. Area/Yearly/2023년.md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
-    "03. Resources/Templetes/Homepage.md",
     "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
     "03. Resources/Unity/TMP 한글 custom size.md",
     "Attached Files/Pasted image 20231104155900.png",
