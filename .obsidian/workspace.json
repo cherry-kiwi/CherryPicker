@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5110321044922
   },
   "right": {
     "id": "1822ffa46a402361",
@@ -196,7 +196,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1eecfc9806598ee",
+  "active": "67f43299a44c293b",
   "lastOpenFiles": [
     "01. Projects/VR 질문.md",
     "01. Projects/캡스톤 칸반보드.md",
