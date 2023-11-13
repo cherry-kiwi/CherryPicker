@@ -11,9 +11,11 @@
             "id": "a1eecfc9806598ee",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 칸반보드.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 칸반보드.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 칸반보드.md",
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 칸반보드.md"
+                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md"
               }
             }
           },
@@ -196,10 +198,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67f43299a44c293b",
+  "active": "a1eecfc9806598ee",
   "lastOpenFiles": [
-    "01. Projects/VR 질문.md",
+    "01. Projects/캡스톤 개발일지/개발/03. Building System.md",
+    "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
+    "01. Projects/캡스톤 개발일지/개발/04. Shopping System.md",
     "01. Projects/캡스톤 칸반보드.md",
+    "01. Projects/VR 질문.md",
     "03. Resources/Templetes/Homepage.md",
     "03. Resources/Unity/Resources.Load 함수.md",
     "01. Projects/체감형 VR HDRP.md",
@@ -219,9 +224,6 @@
     "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
     "03. Resources/Unity/TMP 한글 custom size.md",
     "Attached Files/Pasted image 20231104155900.png",
-    "01. Projects/캡스톤 개발일지/개발/03. Building System.md",
-    "01. Projects/캡스톤 개발일지/개발/04. Shopping System.md",
-    "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "Attached Files/Pasted image 20231024135010.png",
     "Attached Files/Pasted image 20231024134943.png",
     "02. Area/Daily/2023/10/2023-10-23 (월).md",
