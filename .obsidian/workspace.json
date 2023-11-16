@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
+                "file": "03. Resources/Unity/Random.Range() 오류.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
+                "file": "03. Resources/Unity/Random.Range() 오류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
+                "file": "03. Resources/Unity/Random.Range() 오류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md"
+                "file": "03. Resources/Unity/Random.Range() 오류.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "a1eecfc9806598ee",
   "lastOpenFiles": [
+    "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
+    "03. Resources/Unity/Random.Range() 오류.md",
     "01. Projects/캡스톤 개발일지/개발/03. Building System.md",
     "01. Projects/캡스톤 개발일지/개발/Grid Building System.md",
     "01. Projects/캡스톤 개발일지/개발/04. Shopping System.md",
@@ -221,7 +223,6 @@
     "02. Area/Montly/2023/2023-10월.md",
     "02. Area/Yearly/2023년.md",
     "01. Projects/캡스톤 개발일지/개발/01. UI 해상도 대응.md",
-    "01. Projects/캡스톤 개발일지/개발/02. Loading Scene.md",
     "03. Resources/Unity/TMP 한글 custom size.md",
     "Attached Files/Pasted image 20231104155900.png",
     "Attached Files/Pasted image 20231024135010.png",
@@ -230,7 +231,6 @@
     "01. Projects/Quick Note.md",
     "무제 폴더",
     "02. Area/Daily/2023/10/2023-10-22 (일).md",
-    "03. Resources/List/Movie.md",
     "Attached Files/Pasted image 20231022185801.png",
     "Attached Files/Pasted image 20231022180712.png",
     "Attached Files/Pasted image 20231022180640.png",
