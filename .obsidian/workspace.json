@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f39d1b0e3ce98b3a",
+        "id": "bc169b9442eb841a",
         "type": "tabs",
         "children": [
           {
-            "id": "a1eecfc9806598ee",
+            "id": "3550a8975f286733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Area/Daily/2023/11/2023-11-16 (목).md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Area/Daily/2023/11/2023-11-16 (목).md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Area/Daily/2023/11/2023-11-16 (목).md",
+                "file": "03. Resources/Templetes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Area/Daily/2023/11/2023-11-16 (목).md"
+                "file": "03. Resources/Templetes/Homepage.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1eecfc9806598ee",
+  "active": "3550a8975f286733",
   "lastOpenFiles": [
     "02. Area/Daily/2023/11/2023-11-10 (금).md",
     "02. Area/Daily/2023/11/2023-11-16 (목).md",
