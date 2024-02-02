@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e63ddcdf5e863424",
+        "id": "4306ff8476fd4044",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8991d89dbd5327",
+            "id": "96942466abe64a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,7 +198,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b8991d89dbd5327",
+  "active": "96942466abe64a74",
   "lastOpenFiles": [
     "02. Area/Daily/2023/11/2023-11-10 (금).md",
     "02. Area/Daily/2023/11/2023-11-16 (목).md",
